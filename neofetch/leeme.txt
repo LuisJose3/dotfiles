@@ -1,0 +1,1 @@
+arrastra una imagen al mismo directorio que el archivo de cofiguracion
