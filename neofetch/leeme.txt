@@ -1,1 +1,4 @@
-arrastra una imagen al mismo directorio que el archivo de cofiguracion
+* IMPORTANTE *
+
+abre el archivo de configuracion(config.conf) con un editor de texto-
+en la linea 743, la propiedad 'image-source' debe ser igual a la ruta de la imagen que quiera utilizar
